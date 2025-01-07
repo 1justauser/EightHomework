@@ -12,8 +12,8 @@
         {
             if (autoCreation)
             {
-                this.firstName = "Victor";
-                this.lastName = "Zaripov";
+                this.firstName = "Lina";
+                this.lastName = "Beautifuleyes";
                 this.country = country;
                 Console.WriteLine(ToString());
             }
